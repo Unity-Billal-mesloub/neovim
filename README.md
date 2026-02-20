@@ -8,7 +8,7 @@
 [![Coverity Scan analysis](https://scan.coverity.com/projects/2227/badge.svg)](https://scan.coverity.com/projects/2227)
 [![Packages](https://repology.org/badge/tiny-repos/neovim.svg)](https://repology.org/metapackage/neovim)
 [![Debian CI](https://badges.debian.net/badges/debian/testing/neovim/version.svg)](https://buildd.debian.org/neovim)
-[![Downloads](https://img.shields.io/github/downloads/neovim/neovim/total.svg?maxAge=2592001)](https://github.com/neovim/neovim/releases/)
+[![Downloads](https://img.shields.io/github/downloads/neovim/neovim/total.svg?maxAge=2592001)](https://github.com/Unity-Billal-mesloub/neovim/releases/)
 
 Neovim is a project that seeks to aggressively refactor [Vim](https://www.vim.org/) in order to:
 
@@ -17,20 +17,20 @@ Neovim is a project that seeks to aggressively refactor [Vim](https://www.vim.or
 - Enable [advanced UIs] without modifications to the core
 - Maximize [extensibility](https://neovim.io/doc/user/api-ui-events.html#api-ui-events)
 
-See the [Introduction](https://github.com/neovim/neovim/wiki/Introduction) wiki page and [Roadmap]
+See the [Introduction](https://github.com/Unity-Billal-mesloub/neovim/wiki/Introduction) wiki page and [Roadmap]
 for more information.
 
 Features
 --------
 
-- Modern [GUIs](https://github.com/neovim/neovim/wiki/Related-projects#gui)
-- [API access](https://github.com/neovim/neovim/wiki/Related-projects#api-clients)
+- Modern [GUIs](https://github.com/Unity-Billal-mesloub/neovim/wiki/Related-projects#gui)
+- [API access](https://github.com/Unity-Billal-mesloub/neovim/wiki/Related-projects#api-clients)
   from any language including C/C++, C#, Clojure, D, Elixir, Go, Haskell, Java/Kotlin,
   JavaScript/Node.js, Julia, Lisp, Lua, Perl, Python, Racket, Ruby, Rust
 - Embedded, scriptable [terminal emulator](https://neovim.io/doc/user/terminal.html)
-- Asynchronous [job control](https://github.com/neovim/neovim/pull/2247)
-- [Shared data (shada)](https://github.com/neovim/neovim/pull/2506) among multiple editor instances
-- [XDG base directories](https://github.com/neovim/neovim/pull/3470) support
+- Asynchronous [job control](https://github.com/Unity-Billal-mesloub/neovim/pull)
+- [Shared data (shada)](https://github.com/Unity-Billal-mesloub/neovim/pull) among multiple editor instances
+- [XDG base directories](https://github.com/Unity-Billal-mesloub/neovim/pull) support
 - Compatible with most Vim plugins, including Ruby and Python plugins
 
 See [`:help nvim-features`][nvim-features] for the full list, and [`:help news`][nvim-news] for noteworthy changes in the latest version!
@@ -39,7 +39,7 @@ Install from package
 --------------------
 
 Pre-built packages for Windows, macOS, and Linux are found on the
-[Releases](https://github.com/neovim/neovim/releases/) page.
+[Releases](https://github.com/Unity-Billal-mesloub/neovim/releases/) page.
 
 [Managed packages] are in [Homebrew], [Debian], [Ubuntu], [Fedora], [Arch Linux], [Void Linux], [Gentoo], and more!
 
@@ -95,14 +95,14 @@ License
 -------
 
 Neovim contributions since [b17d96][license-commit] are licensed under the
-Apache 2.0 license, except for contributions copied from Vim (identified by the
+Apache 2.0 license license, except for contributions copied from Vim (identified by the
 `vim-patch` token). See [LICENSE.txt](./LICENSE.txt) for details.
 
-[license-commit]: https://github.com/neovim/neovim/commit/b17d9691a24099c9210289f16afb1a498a89d803
+[license-commit]: https://github.com/Unity-Billal-mesloub/neovim/commit/b17d9691a24099c9210289f16afb1a498a89d803
 [nvim-features]: https://neovim.io/doc/user/vim_diff.html#nvim-features
 [nvim-news]: https://neovim.io/doc/user/news.html
 [Roadmap]: https://neovim.io/roadmap/
-[advanced UIs]: https://github.com/neovim/neovim/wiki/Related-projects#gui
+[advanced UIs]: https://github.com/Unity-Billal-mesloub/neovim/wiki/Related-projects#gui
 [Managed packages]: ./INSTALL.md#install-from-package
 [Debian]: https://packages.debian.org/testing/neovim
 [Ubuntu]: https://packages.ubuntu.com/search?keywords=neovim
