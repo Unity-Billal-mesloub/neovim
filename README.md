@@ -98,7 +98,6 @@ Neovim contributions since [license-commit] are licensed under the
 mit license, except for contributions copied from Vim (identified by the
 `vim-patch` token). See [LICENSE.txt](./LICENSE.txt) for details.
 
-[license-commit]: https://github.com/Unity-Billal-mesloub/neovim/commit/b17d9691a24099c9210289f16afb1a498a89d803
 [nvim-features]: https://neovim.io/doc/user/vim_diff.html#nvim-features
 [nvim-news]: https://neovim.io/doc/user/news.html
 [Roadmap]: https://neovim.io/roadmap/
