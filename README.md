@@ -94,8 +94,8 @@ Project layout
 License
 -------
 
-Neovim contributions since [b17d96][license-commit] are licensed under the
-Apache 2.0 license license, except for contributions copied from Vim (identified by the
+Neovim contributions since [license-commit] are licensed under the
+mit license, except for contributions copied from Vim (identified by the
 `vim-patch` token). See [LICENSE.txt](./LICENSE.txt) for details.
 
 [license-commit]: https://github.com/Unity-Billal-mesloub/neovim/commit/b17d9691a24099c9210289f16afb1a498a89d803
